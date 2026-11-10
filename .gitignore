@@ -1,0 +1,37 @@
+# Data
+*.csv
+datasets/
+
+# Python environments
+.venv/
+venv/
+env/
+urbanstay/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# CatBoost training files
+catboost_info/
