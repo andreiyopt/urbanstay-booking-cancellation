@@ -35,3 +35,12 @@ Thumbs.db
 
 # CatBoost training files
 catboost_info/
+# резервные копии проекта
+project_4.backup_*
+
+# служебные файлы catboost
+catboost_info/
+
+# результаты ревью
+.review_final/
+project_4_review.html
